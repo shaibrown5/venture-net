@@ -27,6 +27,7 @@
     /* Path Aliases */
     "baseUrl": ".",
     "paths": {
+      "@ui/*":["./src/app/ui/*"],
       "@/*": ["./src/*"]
     }
   },
